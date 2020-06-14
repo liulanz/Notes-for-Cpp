@@ -6,3 +6,5 @@ This repository contains basic algorithm for C++
 :small_blue_diamond: [Unsigned and signed int](./unsigned-signed.md)
 
 :small_blue_diamond: [Bitwise operator](./bitwise.md)
+
+:small_blue_diamond: [Sparse Table](./sparseTable.md)
