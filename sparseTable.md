@@ -1,5 +1,5 @@
-Leetcode 303 sparse Table solution
-
+Leetcode 303 sparse Table solution (Java)
+```
 class NumArray {
     int sparse[][];
     int A[];
@@ -26,3 +26,6 @@ class NumArray {
         return sum;
     }
 }
+```
+
+C++ Implementation (Upcoming...)
