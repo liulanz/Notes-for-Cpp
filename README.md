@@ -1,9 +1,9 @@
 # :bookmark_tabs: Notes-for-C++
 
-### Description
+### Description:
 This repository contains basic algorithm for C++
 
-### Authors
+### Authors:
 
 :octocat:
 
@@ -11,7 +11,7 @@ This repository contains basic algorithm for C++
 
 :octocat: [Liulan Zheng](https://github.com/liulanz)
 
-# :pencil2:
+### :pencil2: Table of Content:
 
 :small_blue_diamond: [Unsigned and signed int](./unsigned-signed.md)
 
