@@ -7,7 +7,7 @@ This repository contains basic algorithm for C++
 
 :octocat:
 
-:octocat: 
+:octocat: [66 Brother](https://github.com/junbinliang)
 
 :octocat: [Liulan Zheng](https://github.com/liulanz)
 
