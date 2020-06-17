@@ -1,7 +1,7 @@
 Leetcode 303 sparse Table solution (Java)
 
 Given an array, you need to find the sum between the range from L to R
-```
+```java
 class NumArray {
     int sparse[][];
     int A[];
