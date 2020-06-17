@@ -7,9 +7,11 @@ This repository contains basic algorithm for C++
 
 :octocat:
 
-:octocat: [66 Brother](https://github.com/junbinliang)
+:octocat: **66 Brother**
+- GitHub: [junbinliang](https://github.com/junbinliang)
 
-:octocat: [Liulan Zheng](https://github.com/liulanz)
+:octocat: **Liulan Zheng**
+- GitHub: [liulanz](https://github.com/liulanz)
 
 ### :pencil2: Table of Content:
 
@@ -22,3 +24,5 @@ This repository contains basic algorithm for C++
 :small_blue_diamond: [Search in BST](./BST.md)
 
 :small_blue_diamond: [Unordered Map](./unordered-map.md)
+
+:small_blue_diamond: [erase()](./erase.md)
