@@ -19,4 +19,6 @@ This repository contains basic algorithm for C++
 
 :small_blue_diamond: [Sparse Table](./sparseTable.md)
 
+:small_blue_diamond: [Search in BST](./BST.md)
+
 :small_blue_diamond: [Unordered Map](./unordered-map.md)
