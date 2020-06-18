@@ -10,4 +10,4 @@ int f(int n){
   else
     return n*f(n-1);
 ```
-'Example' -Assume given n=3, 3*f(3-1)->3*f(2)->3*2*f(2-1)->3*2*f(1)=3*2*1=6
+- `Example`-Assume given n=3, 3*f(3-1)->3*f(2)->3*2*f(2-1)->3*2*f(1)=3*2*1=6
