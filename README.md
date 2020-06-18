@@ -27,3 +27,7 @@ This repository contains basic algorithm for C++
 :small_blue_diamond: [Unordered Map](./unordered-map.md)
 
 :small_blue_diamond: [erase()](./erase.md)
+
+:small_blue_diamond: [Recursion](./recursion.md)
+
+:small_blue_diamond: [Sort](./sort.md)
