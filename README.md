@@ -5,7 +5,8 @@ This repository contains basic algorithm for C++
 
 ### Authors:
 
-:octocat:
+:octocat: **BHeadSenpai**
+- GitHub: [wei15987](https://github.com/wei15987)
 
 :octocat: **66 Brother**
 - GitHub: [junbinliang](https://github.com/junbinliang)
