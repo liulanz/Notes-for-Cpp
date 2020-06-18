@@ -1,6 +1,6 @@
-******Sample code******
+#Sample code
 
-```cpp```
+```cpp
 int f(int n){
   /*base condition is really important to recursion, 
   otherwise recursion goes forever and throw overflow error*/
@@ -9,4 +9,4 @@ int f(int n){
     return 1;
   else
     return n*f(n-1);
-``````
+```
