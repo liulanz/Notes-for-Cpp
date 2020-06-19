@@ -11,3 +11,5 @@ There are **many different versions of quickSort** that pick pivot in different 
 1. Pick median as pivot.
 
 ![Quick Sort overview](./images/quicksort.png)
+
+https://algs4.cs.princeton.edu/23quicksort/
