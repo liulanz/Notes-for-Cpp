@@ -25,6 +25,7 @@ This repository contains basic algorithm for C++
 ## F
 ## G
 ## H
+:small_blue_diamond: [Minimum Spanning Tree](./MST.md) <br />
 ## I
 ## J
 ## K
