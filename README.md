@@ -44,6 +44,7 @@ This repository contains basic algorithm for C++
 :small_blue_diamond: [Sieve of Eratosthenes](./sieve-of-eratosthenes.md) <br />
 :small_blue_diamond: [Sort() for vector](./sort.md) <br />
 :small_blue_diamond: [Sparse Table](./sparseTable.md) <br />
+:small_blue_diamond: [stringstream](./stringstream.md) <br />
 ## T
 ## U
 :small_blue_diamond: [Unordered Map](./unordered-map.md) <br />
