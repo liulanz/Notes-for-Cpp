@@ -49,6 +49,7 @@ This repository contains basic algorithm for C++
 ## U
 :small_blue_diamond: [Unordered Map](./unordered-map.md) <br />
 :small_blue_diamond: [Unsigned and signed int](./unsigned-signed.md) <br />
+:small_blue_diamond: [***Useful functions in C++](./useful-functions.md) <br />
 ## V
 ## W
 ## X
