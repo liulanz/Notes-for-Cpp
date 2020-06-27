@@ -29,3 +29,10 @@ else {
   z = y;
 }
 ```
+### Convert char to string
+```cpp
+char c = 'a';
+string s = string(1, c);
+```
+
+
