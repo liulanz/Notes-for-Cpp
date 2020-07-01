@@ -17,6 +17,7 @@ This repository contains basic algorithm for C++
 ### :pencil2: Table of Content:
 ## A
 ## B
+:small_blue_diamond: [Binary Index Tree (Fenwick Tree)](./BIT.md) <br />
 :small_blue_diamond: [Bitwise operator](./bitwise.md) <br />
 ## C
 ## D
