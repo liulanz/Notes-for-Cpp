@@ -21,7 +21,7 @@ This repository contains basic algorithm for C++
 :small_blue_diamond: [Bitwise operator](./bitwise.md) <br />
 ## C
 ## D
-:small_blue_diamond: [Dynamic Programing](./Dynamic Programing.md) <br />
+:small_blue_diamond: [Dynamic Programing](./Dynamic_Programing.md) <br />
 ## E
 :small_blue_diamond: [erase()](./erase.md) <br />
 ## F
